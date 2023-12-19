@@ -131,7 +131,7 @@ function Home() {
           </Col>
 
           <Col md={6} style={{ marginTop: "40px" }}>
-            <h4>
+            <h4 style={{ textAlign: "center" }}>
               About <b style={{ color: "#00e8f8" }}>Me</b>
             </h4>
             <p>
