@@ -232,20 +232,19 @@ function Home() {
             <Card style={{ width: "18rem" }}>
               <Card.Img
                 variant="top"
-                src="https://res.cloudinary.com/practicaldev/image/fetch/s--ifHHJ0Yh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/e6zmlxfce899mk6e53ba.png"
+                src="https://plus.unsplash.com/premium_photo-1677593850639-9f1e14e4524b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2VhdGhlciUyMGFwcHxlbnwwfHwwfHx8MA%3D%3D"
                 style={{ height: "200px" }}
               />
               <Card.Body>
-                <Card.Title>Currency Convert</Card.Title>
+                <Card.Title>Weather App</Card.Title>
                 <Card.Text>
-                  In this app Currency Converter , you can and convert your
-                  currency to a different countrys currency.
+                  In this Weather App, you can see the temperature of any city in the world.Its very reliable and easy to use
                 </Card.Text>
                 <div
                   style={{ display: "flex", justifyContent: "space-evenly" }}
                 >
                   <a
-                    href="https://github.com/BabatundeJimoh/currency-web"
+                    href="https://github.com/BabatundeJimoh/weather"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-primary"
@@ -253,7 +252,7 @@ function Home() {
                     <i className="bi bi-github"></i>
                   </a>
                   <a
-                    href="https://tundecurrency-converter.netlify.app"
+                    href="https://tundesweatherapp.netlify.app/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-info"
