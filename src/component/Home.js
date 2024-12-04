@@ -344,7 +344,7 @@ function Home() {
                     <i className="bi bi-github"></i>
                   </a>
                   <a
-                    href="https://tundequotes.netlify.app"
+                    href="https://tundesquotes.netlify.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-info"
